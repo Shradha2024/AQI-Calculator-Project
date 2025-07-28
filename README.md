@@ -28,5 +28,5 @@ This project was developed as part of my AI/ML learning journey and demonstrates
 
 # Links
 - [Google Colab Notebook](https://colab.research.google.com/drive/1sBzMsnPlC4sBeL-4wL_4x6E5POtZJToP#scrollTo=HvuY_D0G8e5_&line=1&uniqifier=1)
-- [GitHub Repository](https://github.com/Shradha2024 /AQI-Calculator-Project)
+- [GitHub Repository](https://github.com/Shradha2024/AQI-Calculator-Project)
 
